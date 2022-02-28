@@ -1,3 +1,3 @@
-module github.com/fly-apps/go-example
+module github.com/Aishubalaji/Proxifier
 
 go 1.17
